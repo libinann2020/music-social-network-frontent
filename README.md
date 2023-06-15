@@ -1,24 +1,17 @@
-# music-social-network
+vue ui
+https://www.devwares.com/blog/how-to-use-the-tailwind-css-JIT-CDN/
+https://aplayer.js.org/#/home
 
-## Project setup
-```
-npm install
-```
+https://pixabay.com/music/search/classical/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://flowbite.com/docs/components/card/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://github.com/advanced-cropper/vue-advanced-cropper/tree/vue-next
+https://www.npmjs.com/package/vue-advanced-cropper
 
-### Lints and fixes files
-```
-npm run lint
-```
+https://www.npmjs.com/package/pinia
+https://pinia.vuejs.org/introduction.html
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.npmjs.com/package/dotenv
+
+https://www.npmjs.com/package/@hennge/vue3-pagination
